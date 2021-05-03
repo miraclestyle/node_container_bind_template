@@ -13,7 +13,7 @@ This repo requires VSCode and Docker setup on the dev machine (https://code.visu
 
 ## Usage
 
-- Git clone the repo to your local machine in an empty folder
-- Change the set of remote tracked repos to point to your new project
-- Open the repo in VSCode and run the container.
-- Use the repo folder as your project root.
+- Git clone the repo to your local machine in an empty folder.
+- Change the set of remote tracked repos to point to your new remote repository.
+- Open the folder in VSCode and run the container.
+- Use the folder as your project root.
