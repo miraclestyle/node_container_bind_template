@@ -15,5 +15,7 @@ This repo requires VSCode and Docker setup on the dev machine (https://code.visu
 
 - Git clone the repo to your local machine in an empty folder.
 - Change the set of remote tracked repos to point to your new remote repository.
-- Open the folder in VSCode and run the container.
+- Open the folder in VSCode
+- Rename the "node_template_*" values in .devcontainer/docker-compose.yml to your preference.
+- Run the container.
 - Use the folder as your project root.
