@@ -9,9 +9,6 @@ services:
     tty: true
     container_name: node_template_container
     volumes:
-      - type: volume
-        source: node_template_volume
+      - type: bind
+        source: ../
         target: /home/developer/app
-
-volumes:
-  node_template_volume:
